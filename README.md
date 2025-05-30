@@ -1,6 +1,4 @@
-# instagram_flutter
-
-A new Flutter project.
+# instagram simulation
 
 ## Getting Started
 
